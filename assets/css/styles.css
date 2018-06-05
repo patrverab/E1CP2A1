@@ -1,0 +1,50 @@
+
+.fondorojo {
+  background-color: red;
+  padding: 30px;
+}
+
+.centro{
+  text-align: center;
+}
+
+h1, h2 {
+  color: yellow;
+  font-family: 'El Rio Lobo';
+}
+
+.fondoazul {
+  background-color: blue;
+  padding: 40px;
+}
+
+.fondo2{
+  background-image: url("../images/cuzco2.jpg");
+  height: 600px;
+  padding-top: 25px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 25px;
+}
+
+.fondo2 p {
+  text-align: right;
+  color: white;
+}
+
+.subtitulo {
+  color: yellow;
+  text-align: right;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.precios {
+  text-align: center;
+  font-family: 'El Rio Lobo';
+  font-size: 40px;
+}
